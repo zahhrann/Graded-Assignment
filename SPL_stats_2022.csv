@@ -1,231 +1,231 @@
 ,Shirt Number,Player Name,Date of Birth,Age,Nationality,Position,Age_2022,Team,Number of games,Games started,Mins,Goals,Shots,Assist,CC,SOT,Fouls commited,Fouls won,Yellow Card,Red Card,Shot_accuracy,Goal_ratio,Sub_in,Transfer_new,Transfer_SPL
-0,2,Tatsuya Sambongi,1999-07-28,22,JPN,Defender,23,Albirex Niigata FC (S),0,4,385:13:00,0,1,0,0,0,0,3,0,0,0.0,0.0,-4,0,0
-1,3,Keito Hariya,2003-05-18,19,JPN,Defender,19,Albirex Niigata FC (S),0,8,748:54:00,0,2,1,1,0,0,5,0,0,0.0,0.0,-8,0,0
-2,4,Jun Kobayashi,1999-05-07,23,JPN,Defender,23,Albirex Niigata FC (S),0,10,900:00:00,0,6,0,0,0,0,3,0,0,0.0,0.0,-10,0,0
-3,5,Daichi Omori,2000-04-01,22,JPN,Defender,22,Albirex Niigata FC (S),0,10,900:00:00,0,15,3,3,0,0,17,0,0,0.0,0.0,-10,0,0
-4,6,Kumpei Kakuta,1999-05-08,23,JPN,Midfielder,23,Albirex Niigata FC (S),0,10,897:47:00,0,14,0,0,0,0,8,0,0,0.0,0.0,-10,0,0
-5,7,Masahiro Sugita,1999-11-24,22,JPN,Midfielder,23,Albirex Niigata FC (S),0,9,805:48:00,0,23,3,3,0,0,9,0,0,0.0,0.0,-9,0,0
-6,8,Masaya Idetsu,1999-05-11,23,JPN,Midfielder,23,Albirex Niigata FC (S),0,5,450:00:00,0,8,6,6,0,0,4,0,0,0.0,0.0,-5,0,0
-7,9,Muhammad Fikri Bin Junaidi,2000-04-02,22,SGP,Forward,22,Albirex Niigata FC (S),3,0,0,1,0,0,0,1,5,0,0,0,inf,inf,3,1,0
-8,10,Kan Kobayashi,1999-04-27,23,JPN,Midfielder,23,Albirex Niigata FC (S),0,10,900:00:00,0,27,4,4,0,0,7,0,0,0.0,0.0,-10,0,0
-9,11,Kodai Tanaka,1999-12-23,22,JPN,Forward,23,Albirex Niigata FC (S),0,9,827:21:00,0,40,2,2,0,0,5,0,0,0.0,0.0,-9,0,0
-10,13,Mahiro Takahashi,2001-06-26,20,JPN,Midfielder,21,Albirex Niigata FC (S),10,0,14:04,0,0,0,0,3,6,0,0,0,inf,0.0,10,1,0
-11,14,Reo Kunimoto,2001-09-01,20,JPN,Defender,21,Albirex Niigata FC (S),20,2,177:24:00,2,2,0,0,4,18,1,2,0,2.0,1.0,18,1,0
-12,15,Tsubasa Kawanishi,2002-06-12,19,JPN,Defender,20,Albirex Niigata FC (S),1,0,23:01,0,1,0,0,0,1,0,0,0,0.0,0.0,1,1,0
-13,16,Shogo Toyomura,1999-11-06,22,JPN,Defender,23,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-14,17,Ilhan Fandi Ahmad,2002-11-08,19,SGP,Forward,20,Albirex Niigata FC (S),0,0,34:00:00,0,3,1,1,0,0,0,0,0,0.0,0.0,0,0,1
-15,18,Nicky Melvin Singh,2002-06-13,19,SGP,Midfielder,20,Albirex Niigata FC (S),13,6,375:57:00,1,10,1,1,6,13,13,0,0,0.6,0.1,7,1,0
-16,19,Tadanari Lee,1985-12-19,36,JPN,Forward,37,Albirex Niigata FC (S),0,9,799:52:00,0,22,4,4,0,0,14,0,0,0.0,0.0,-9,0,0
-17,20,Muhammad Fairoz Bin Hasan,1988-11-26,33,SGP,Forward,34,Albirex Niigata FC (S),8,1,137:07:00,0,11,0,0,1,8,0,0,0,0.09,0.0,7,1,0
-18,21,Mohamed Hyrulnizam Bin Juma'at,1986-11-14,35,SGP,Goal Keeper,36,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-19,22,Shota Ochiai,2002-06-23,19,JPN,Forward,20,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-20,23,Muhammad Hilman Bin Norhisam,2004-05-24,18,SGP,Midfielder,18,Albirex Niigata FC (S),0,1,45:00:00,0,0,0,0,0,0,0,0,0,0.0,0.0,-1,1,0
-21,24,Muhammad Zamani Bin Md Zamri,2001-05-31,21,SGP,Midfielder,21,Albirex Niigata FC (S),0,3,185:06:00,0,3,1,1,0,0,8,0,0,0.0,0.0,-3,0,1
-22,25,Yoshiki Matsuura,2001-04-05,21,JPN,Defender,21,Albirex Niigata FC (S),0,2,146:37:00,0,1,0,0,0,0,2,0,0,0.0,0.0,-2,0,0
-23,26,Kanato Fukazawa,2001-12-04,20,JPN,Midfielder,21,Albirex Niigata FC (S),0,1,224:35:00,0,8,0,0,0,0,7,0,0,0.0,0.0,-1,0,0
-24,27,Satsuki Mori,2001-11-29,20,JPN,Midfielder,21,Albirex Niigata FC (S),0,0,22:07,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0,0
-25,31,Takahiro Koga,1999-03-11,23,JPN,Goal Keeper,23,Albirex Niigata FC (S),21,10,900:00:00,0,0,0,0,0,0,2,0,0,0.0,0.0,11,1,0
-26,51,Kai Yamamoto,2005-06-21,16,JPN,Goal Keeper,17,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-27,52,Junki Kenn Yoshimura,2004-07-20,17,SGP,Midfielder,18,Albirex Niigata FC (S),1,0,0:00,0,0,0,0,1,2,0,0,0,inf,0.0,1,1,0
-28,53,Jun Kai Wong,2003-10-21,18,SGP,Midfielder,19,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-29,1,Hairul Syirhan Bin Mardan,1995-08-21,26,SGP,Goal Keeper,27,Balestier Khalsa FC,6,6,540:00:00,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1
-30,3,Keshav Kumar S/O Kishore Kumar,2001-02-06,21,SGP,Defender,21,Balestier Khalsa FC,3,0,8:58,0,0,0,0,0,0,0,0,0,0.0,0.0,3,1,0
-31,4,Delwinder Singh S/o Ranjit Singh,1992-08-05,29,SGP,Defender,30,Balestier Khalsa FC,10,9,815:37:00,0,3,0,0,0,5,10,3,1,0.0,0.0,1,0,1
-32,5,Ensar Bruncevic,1999-02-13,23,SRB,Defender,23,Balestier Khalsa FC,11,11,990:00:00,2,6,1,1,6,13,11,1,0,1.0,0.33,0,1,0
-33,6,C Aarish Kumar,1999-05-19,23,SGP,Midfielder,23,Balestier Khalsa FC,2,2,75:00:00,0,1,0,0,1,3,1,0,0,1.0,0.0,0,1,0
-34,7,Ji Xiong Daniel Goh,1999-08-13,22,SGP,Midfielder,23,Balestier Khalsa FC,2,1,112:44:00,0,1,0,0,0,1,1,0,0,0.0,0.0,1,0,1
-35,8,Ammirul Emmran Bin Mazlan,1995-04-18,27,SGP,Midfielder,27,Balestier Khalsa FC,9,7,673:45:00,0,0,0,0,0,7,5,2,0,0.0,0.0,2,0,1
-36,9,Shuhei Hoshino,1995-12-19,26,JPN,Forward,27,Balestier Khalsa FC,10,10,900:00:00,7,31,0,0,13,13,21,1,0,0.42,0.23,0,1,0
-37,10,Ryoya Taniguchi,1999-08-31,22,JPN,Forward,23,Balestier Khalsa FC,11,11,990:00:00,2,23,6,6,10,16,37,1,0,0.43,0.09,0,0,1
-38,11,Kuraba Kondo,2002-07-06,19,JPN,Forward,20,Balestier Khalsa FC,11,11,963:54:00,3,17,2,2,9,11,17,0,0,0.53,0.18,0,0,1
-39,12,Yi Jie Martyn Mun,2000-01-07,22,SGP,Goal Keeper,22,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1
-40,13,Muhammad Amer Hakeem Bin Mohamad Nazri,1998-11-08,23,SGP,Defender,24,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-41,14,Hariysh S/O Krishnakumar,2002-10-23,19,SGP,Midfielder,20,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-42,16,Ting Wei Darren Teh,1996-08-19,25,SGP,Defender,26,Balestier Khalsa FC,11,10,911:26:00,0,0,3,3,0,8,16,0,0,0.0,0.0,1,0,1
-43,17,Naufal Bin Azman,1998-07-10,23,SGP,Forward,24,Balestier Khalsa FC,7,2,289:23:00,0,9,0,0,3,3,3,0,0,0.33,0.0,5,0,1
-44,18,Riki Kimura,2000-11-14,21,SGP,Goal Keeper,22,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-45,19,Muhammad Asshukrie Bin Wahid,1998-02-27,24,SGP,Midfielder,24,Balestier Khalsa FC,4,2,162:20:00,0,1,0,0,1,1,2,0,0,1.0,0.0,2,0,1
-46,20,Rudy Khairullah Bin Adi Negara,1994-07-19,27,SGP,Goal Keeper,28,Balestier Khalsa FC,5,5,450:00:00,0,0,0,0,0,0,1,2,0,0.0,0.0,0,0,1
-47,22,Puvan Raj Sivalingam,2001-08-29,20,SGP,Forward,21,Balestier Khalsa FC,1,1,45:00:00,0,0,0,0,0,2,2,1,0,0.0,0.0,0,1,0
-48,24,Wai Loon Ho,1993-08-20,28,SGP,Midfielder,29,Balestier Khalsa FC,10,10,847:38:00,0,4,0,0,1,10,17,1,0,0.25,0.0,0,1,0
-49,27,Akmal Bin Azman,2000-11-21,21,SGP,Midfielder,22,Balestier Khalsa FC,6,2,229:19:00,0,0,0,0,0,2,3,0,0,0.0,0.0,4,0,0
-50,28,Jun Kit Gareth Low,1997-02-28,25,SGP,Midfielder,25,Balestier Khalsa FC,10,10,783:12:00,1,3,1,1,2,11,5,1,0,0.67,0.33,0,1,0
-51,29,Aidil Bin Johari,2003-04-05,19,SGP,Midfielder,19,Balestier Khalsa FC,10,6,686:14:00,0,0,0,0,0,4,8,2,0,0.0,0.0,4,1,0
-52,30,Yu Heng Ignatius Ang,1992-11-11,29,SGP,Midfielder,30,Balestier Khalsa FC,7,1,157:19:00,0,1,0,0,1,6,1,0,0,1.0,0.0,6,0,0
-53,39,Aiman Zavyan Zuraiddy,2002-06-07,19,SGP,Defender,20,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-54,54,Chee Keat Larry Lim,2002-07-02,19,SGP,Midfielder,20,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-55,66,Ryan Praveen Tamil Selven,2002-05-28,20,SGP,Defender,20,Balestier Khalsa FC,2,0,45:54:00,0,0,0,0,0,3,1,0,0,0.0,0.0,2,1,0
-56,67,Mohammad Iftiqar Bin Mohammad Parizan,2003-04-21,19,SGP,Midfielder,19,Balestier Khalsa FC,1,1,45:00:00,0,0,0,0,0,0,1,0,0,0.0,0.0,0,1,0
-57,68,Suffian Bin Abdullah,2004-04-12,18,SGP,Goal Keeper,18,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-58,70,Mohamed Asraf Rilwan S/O Nazimudeen,2003-12-03,18,SGP,Midfielder,19,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-59,72,Max Vijay Callum McCoy,2004-04-03,18,GBR,Forward,18,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-60,74,Yann Emmanuel Henri Weishaupt,2004-01-02,18,FRA,Midfielder,18,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-61,77,Hari Connor Vinay McCoy,2002-09-11,19,GBR,Forward,20,Balestier Khalsa FC,1,1,32:08:00,0,0,1,1,0,2,0,0,0,0.0,0.0,0,0,0
-62,79,N Sakthivelchezhian,2002-12-09,19,SGP,Forward,20,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-63,80,Muhammad Aqil Mohamed Yazid,2004-01-09,18,SGP,Defender,18,Balestier Khalsa FC,2,2,135:00:00,0,0,0,0,0,3,0,1,0,0.0,0.0,0,1,0
-64,1,Mohamed Zulfairuuz Bin Mohamed Rudy,1994-05-22,28,SGP,Goal Keeper,28,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1
-65,2,Muhammad Fadli Bin Kamis,1992-11-07,29,SGP,Defender,30,Geylang International FC,6,6,508:44:00,0,0,1,1,0,4,8,0,0,0.0,0.0,0,0,1
-66,3,Mohamed Ilhan Bin Mohamed Noor,2002-12-19,19,SGP,Defender,20,Geylang International FC,7,2,183:41:00,0,0,0,0,0,3,2,0,0,0.0,0.0,5,1,0
-67,4,Takahiro Tezuka,1998-06-25,23,JPN,Midfielder,24,Geylang International FC,10,10,900:00:00,1,15,1,1,7,11,5,1,0,0.47,0.07,0,0,1
-68,5,Joshua Bernard Pereira,1997-10-10,24,SGP,Midfielder,25,Geylang International FC,1,1,29:14:00,0,0,0,0,0,0,2,0,0,0.0,0.0,0,0,0
-69,6,Abdil Qaiyyim Bin Abdul Mutalib,1989-05-14,33,SGP,Defender,33,Geylang International FC,7,6,509:37:00,1,2,1,1,1,4,5,1,0,0.5,0.5,1,1,0
-70,7,Mohammad Hazzuwan Mohammad Halim,1994-02-02,28,SGP,Forward,28,Geylang International FC,10,10,806:33:00,2,18,1,1,7,6,8,0,0,0.39,0.11,0,0,1
-71,8,Muhammad Fareez Bin Mohd Farhan,1994-07-29,27,SGP,Forward,28,Geylang International FC,8,1,218:50:00,0,6,1,1,4,3,2,0,0,0.67,0.0,7,1,0
-72,9,Sime Zuzul,1996-01-10,26,CRO,Forward,26,Geylang International FC,10,10,900:00:00,5,22,1,1,14,16,18,0,0,0.64,0.23,0,0,1
-73,10,VINCENT BEZECOURT,1993-06-10,28,FRA,Midfielder,29,Geylang International FC,10,10,900:00:00,1,31,1,1,4,15,28,1,0,0.13,0.03,0,0,0
-74,11,Huzaifah Abdul Aziz,1994-06-27,27,SGP,Midfielder,28,Geylang International FC,10,10,824:01:00,0,2,0,0,0,27,22,2,0,0.0,0.0,0,0,1
-75,13,Rio Sakuma,1997-04-14,25,JPN,Defender,25,Geylang International FC,10,10,900:00:00,0,5,0,0,1,11,1,0,0,0.2,0.0,0,0,0
-76,14,Ahmad Syahir Bin Sahimi,1992-04-10,30,SGP,Defender,30,Geylang International FC,9,7,667:46:00,0,3,1,1,2,19,10,3,1,0.67,0.0,2,0,1
-77,15,Mohammad Faizal Bin Roslan,1995-05-30,27,SGP,Defender,27,Geylang International FC,8,8,689:08:00,0,6,0,0,2,8,1,1,1,0.33,0.0,0,1,0
-78,16,Umar Akhbar Ramle,1996-05-02,26,SGP,Midfielder,26,Geylang International FC,4,0,155:29:00,0,2,0,0,0,3,7,1,0,0.0,0.0,4,1,0
-79,18,Khairul Hairie Bin Abdul Hamid,2000-04-09,22,SGP,Midfielder,22,Geylang International FC,8,8,453:43:00,1,6,0,0,1,5,7,0,0,0.17,0.17,0,0,0
-80,19,Zaiful Nizam Bin Abdullah,1987-07-24,34,SGP,Goal Keeper,35,Geylang International FC,9,9,810:00:00,0,0,0,0,0,0,0,2,0,0.0,0.0,0,1,0
-81,20,S Suria Prakash,1993-12-23,28,SGP,Midfielder,29,Geylang International FC,1,0,3:47,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0
-82,21,Muhammad Hafiz Bin Ahmad,1998-12-30,23,SGP,Goal Keeper,24,Geylang International FC,1,1,90:00:00,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0,0
-83,22,Hai Ngee Yeo,1995-01-12,27,SGP,Midfielder,27,Geylang International FC,2,0,17:27,0,0,0,0,0,0,0,0,0,0.0,0.0,2,0,0
-84,23,Muhammad Zulfadhmi Bin Suzliman,1996-02-10,26,SGP,Forward,26,Geylang International FC,2,0,79:54:00,0,0,0,0,0,2,4,0,0,0.0,0.0,2,0,0
-85,24,Qayyum Raishyan Bin Rahmat,2000-12-05,21,SGP,Defender,22,Geylang International FC,1,0,45:00:00,0,0,0,0,0,1,0,0,0,0.0,0.0,1,0,0
-86,52,Muhammad Danish Siregar Bin Sahat Siregar,2003-03-01,19,SGP,Midfielder,19,Geylang International FC,1,0,23:20,0,1,0,0,0,0,0,0,0,0.0,0.0,1,0,1
-87,53,Muhammad Badrul Amin Bin Noh,2002-02-12,20,SGP,Defender,20,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-88,54,Jia Jun Kieran Teo,2004-04-06,18,SGP,Defender,18,Geylang International FC,2,1,117:15:00,0,1,0,0,1,3,0,1,0,1.0,0.0,1,1,0
-89,55,MUHAMMAD DANISH HAZIQ BIN MOHAMMAD HANAFI,2002-06-12,19,SGP,Forward,20,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-90,59,Muhammad Furqan Abdul Raoff,2002-03-26,20,SGP,Midfielder,20,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-91,65,MUHAMMAD ANIQ YUSOFF,2004-12-24,17,SGP,Goal Keeper,18,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-92,1,Mukundan Malaiya Maran,1998-07-21,23,SGP,Goal Keeper,24,Hougang United FC,4,4,360:00:00,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-93,2,Anders Eric Aplin,1991-06-21,30,SGP,Defender,31,Hougang United FC,8,5,464:49:00,0,2,0,0,0,5,4,2,1,0.0,0.0,3,1,0
-94,4,Muhammad Nazrul Bin Ahmad Nazari,1991-02-11,31,SGP,Defender,31,Hougang United FC,8,8,720:00:00,1,2,1,1,2,13,9,1,0,1.0,0.5,0,1,0
-95,5,Han Wei Lionel Tan,1997-06-05,24,SGP,Defender,25,Hougang United FC,8,8,720:00:00,0,3,1,1,1,8,2,1,0,0.33,0.0,0,1,0
-96,6,Kaishu Yamazaki,1997-07-12,24,JPN,Midfielder,25,Hougang United FC,11,11,990:00:00,2,13,0,0,4,9,13,0,0,0.31,0.15,0,1,0
-97,7,Muhammad Shahfiq Bin Ghani,1992-03-17,30,SGP,Midfielder,30,Hougang United FC,7,3,206:26:00,0,3,2,2,1,4,1,0,0,0.33,0.0,4,1,0
-98,8,Muhammad Hafiz Bin Abu Sujad,1990-11-01,31,SGP,Defender,32,Hougang United FC,5,2,281:31:00,1,4,1,1,2,5,2,2,0,0.5,0.25,3,1,0
-99,9,Pedro Gomes Bortoluzo,1996-07-17,25,BRA,Forward,26,Hougang United FC,7,6,550:41:00,3,19,1,1,5,10,11,2,0,0.26,0.16,1,0,0
-100,10,Muhammad Shawal Bin Anuar,1991-04-29,31,SGP,Forward,31,Hougang United FC,7,6,516:47:00,1,6,1,1,2,7,10,0,0,0.33,0.17,1,1,0
-101,11,Muhammad Afiq Bin Mat Noor,1993-12-25,28,SGP,Midfielder,29,Hougang United FC,4,0,40:22:00,0,0,0,0,0,3,1,1,0,0.0,0.0,4,1,0
-102,12,Wing Hong Fabian Kwok,1989-03-17,33,SGP,Midfielder,33,Hougang United FC,6,4,358:01:00,0,1,1,1,0,6,4,0,0,0.0,0.0,2,1,0
-103,13,Muhammad Ridhuan Bin Barudin,1987-03-23,35,SGP,Goal Keeper,35,Hougang United FC,7,7,630:00:00,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-104,14,Kristijan Krajcek,1993-10-01,28,CRO,Midfielder,29,Hougang United FC,8,8,701:48:00,1,23,1,1,7,21,12,1,0,0.3,0.04,0,0,1
-105,16,Faiz Bin Mohd Salleh,1992-07-17,29,SGP,Defender,30,Hougang United FC,2,2,180:00:00,0,0,0,0,0,1,2,0,0,0.0,0.0,0,1,0
-106,17,Mohammad Shahril Bin Ishak,1984-01-23,38,SGP,Forward,38,Hougang United FC,9,3,335:46:00,0,3,0,0,1,2,7,0,0,0.33,0.0,6,1,0
-107,19,Amy Recha Pristifana Bin Samion,1992-05-13,30,SGP,Forward,30,Hougang United FC,10,7,684:16:00,1,10,0,0,6,10,7,0,0,0.6,0.1,3,0,1
-108,20,Muhammad Muhaimin Bin Suhaimi,1995-02-20,27,SGP,Midfielder,27,Hougang United FC,6,4,337:09:00,0,2,0,0,0,7,9,1,0,0.0,0.0,2,1,0
-109,21,Muhammad Nazhiim Bin Harman,1999-03-02,23,SGP,Defender,23,Hougang United FC,9,7,596:45:00,0,0,0,0,0,6,3,5,0,0.0,0.0,2,0,1
-110,22,Kishson Silvanus Philip,1999-11-26,22,SGP,Midfielder,23,Hougang United FC,2,0,11:22,0,0,0,0,0,2,0,0,0,0.0,0.0,2,1,0
-111,23,Mohamad Sahil Bin Suhaimi,1992-07-08,29,SGP,Forward,30,Hougang United FC,8,3,410:22:00,3,15,1,1,8,6,14,0,0,0.53,0.2,5,1,0
-112,24,Muhammad Amir Bin Zalani,1996-12-04,25,SGP,Midfielder,26,Hougang United FC,5,3,206:09:00,0,0,0,0,0,2,0,0,0,0.0,0.0,2,1,0
-113,25,Muhammad Aizil Mohamed Yazid,2004-12-24,17,SGP,Goal Keeper,18,Hougang United FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-114,30,Andre Francisco Moritz,1986-08-06,35,BRA,Midfielder,36,Hougang United FC,9,8,657:20:00,4,28,2,2,9,17,25,3,0,0.32,0.14,1,0,0
-115,37,Muhammad Zulfahmi Bin Mohd Arifin,1991-10-05,30,SGP,Midfielder,31,Hougang United FC,7,6,562:30:00,1,2,0,0,1,6,4,0,0,0.5,0.5,1,0,0
-116,55,Muhammad Farhan Bin Zulkifli,2002-11-10,19,SGP,Midfielder,20,Hougang United FC,5,5,265:24:00,0,1,0,0,0,6,7,2,0,0.0,0.0,0,1,0
-117,66,Ajay Robson s/o Muralitharan,2003-12-06,18,SGP,Defender,19,Hougang United FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-118,1,Mohamad Izwan Bin Mahbud,1990-07-14,31,SGP,Goal Keeper,32,Lion City Sailors FC,3,3,270:00:00,0,0,0,0,0,0,3,0,0,0.0,0.0,0,0,1
-119,2,Pedro Henrique Pereira Da Silva,1992-12-18,29,BRA,Defender,30,Lion City Sailors FC,8,8,642:53:00,0,4,0,0,0,8,3,0,1,0.0,0.0,0,0,0
-120,3,Tajeli Bin Salamat,1994-02-07,28,SGP,Defender,28,Lion City Sailors FC,6,6,439:48:00,0,1,0,0,0,5,6,0,0,0.0,0.0,0,1,0
-121,5,Muhammad Amirul Adli Bin Azmi,1996-01-13,26,SGP,Defender,26,Lion City Sailors FC,9,4,450:13:00,0,2,0,0,0,3,3,0,0,0.0,0.0,5,1,0
-122,6,Anumanthan S/O Mohan Kumar,1994-07-14,27,SGP,Midfielder,28,Lion City Sailors FC,8,4,376:12:00,0,1,0,0,1,11,8,2,0,1.0,0.0,4,0,0
-123,7,Uiyoung Song,1993-11-08,28,SGP,Midfielder,29,Lion City Sailors FC,9,8,578:19:00,2,19,2,2,7,19,18,2,0,0.37,0.11,1,1,0
-124,8,Shahdan Bin Sulaiman,1988-05-09,34,SGP,Midfielder,34,Lion City Sailors FC,9,8,731:49:00,1,8,2,2,2,8,1,1,0,0.25,0.12,1,1,0
-125,9,Shinwook Kim,1988-04-14,34,KOR,Forward,34,Lion City Sailors FC,10,7,672:21:00,9,30,0,0,14,8,7,0,0,0.47,0.3,3,0,0
-126,10,Diego Hipolito Da Silva Lopes,1994-05-03,28,BRA,Midfielder,28,Lion City Sailors FC,10,8,780:20:00,4,17,2,2,8,14,22,1,0,0.47,0.24,2,1,0
-127,11,Mohammad Hafiz Bin Mohd Nor,1988-08-22,33,SGP,Midfielder,34,Lion City Sailors FC,10,3,489:34:00,1,4,1,1,1,14,2,2,0,0.25,0.25,7,1,0
-128,12,Iqram Rifqi Bin Mohd Yazid,1996-02-25,26,SGP,Midfielder,26,Lion City Sailors FC,8,7,582:27:00,1,1,1,1,1,8,8,0,0,1.0,1.0,1,0,1
-129,13,Muhammad Adib Nur Hakim Bin Azahari,1998-03-09,24,SGP,Goal Keeper,24,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-130,14,Hariss S/O Harun,1990-11-19,31,SGP,Defender,32,Lion City Sailors FC,10,10,900:00:00,0,3,0,0,3,5,3,0,0,1.0,0.0,0,1,0
-131,16,Muhammad Hami Syahin Bin Said,1998-12-16,23,SGP,Midfielder,24,Lion City Sailors FC,3,1,76:17:00,0,1,0,0,0,3,1,1,0,0.0,0.0,2,0,1
-132,17,Maxime Christophe Lestienne,1992-06-17,29,BEL,Midfielder,30,Lion City Sailors FC,8,4,484:02:00,3,18,7,7,10,3,5,2,0,0.56,0.17,4,0,0
-133,18,Hassan Bin Abdullah Sunny,1984-04-02,38,SGP,Goal Keeper,38,Lion City Sailors FC,7,7,630:00:00,0,0,0,0,0,0,4,0,0,0.0,0.0,0,1,0
-134,19,Muhammad Naqiuddin Bin Ahmad Eunos,1997-01-12,25,SGP,Defender,25,Lion City Sailors FC,2,1,56:19:00,0,0,0,0,0,0,3,0,0,0.0,0.0,1,1,0
-135,22,Jun Yi Gabriel Quak,1990-12-22,31,SGP,Midfielder,32,Lion City Sailors FC,8,4,327:03:00,2,11,2,2,4,6,2,0,0,0.36,0.18,4,1,0
-136,23,Muhammad Amiruldin Asraf Bin Muhammad Nodin,1997-01-08,25,SGP,Forward,25,Lion City Sailors FC,2,2,110:59:00,0,0,0,0,0,3,2,0,0,0.0,0.0,0,1,0
-137,25,Haiqal Pashia Anugrah,1998-11-29,23,SGP,Midfielder,24,Lion City Sailors FC,4,1,140:45:00,1,4,1,1,2,2,5,0,0,0.5,0.25,3,1,0
-138,27,Adam Bin Swandi,1996-01-12,26,SGP,Midfielder,26,Lion City Sailors FC,7,2,255:26:00,0,1,0,0,0,5,4,1,0,0.0,0.0,5,1,0
-139,28,Muhammad Saifullah Bin Mohammad Akbar,1999-01-31,23,SGP,Midfielder,23,Lion City Sailors FC,3,3,143:33:00,0,2,0,0,0,5,3,2,0,0.0,0.0,0,1,0
-140,30,Muhammad Faris Bin Ramli,1992-08-24,29,SGP,Midfielder,30,Lion City Sailors FC,6,2,214:11:00,0,2,1,1,0,0,11,0,0,0.0,0.0,4,1,0
-141,51,Aniq Raushan Bin Mohamad Azra,2003-10-05,18,SGP,Defender,19,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-142,55,Jing Jie Glenn Ong,2003-07-16,18,SGP,Midfielder,19,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-143,62,Kieran Aryan Bin Azhari,2003-05-31,19,SGP,Midfielder,19,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-144,66,Muhammad Nur Adam Bin Abdullah,2001-04-13,21,SGP,Defender,21,Lion City Sailors FC,4,3,310:56:00,0,0,0,0,0,8,4,1,0,0.0,0.0,1,1,0
-145,71,Bah Bill Abuzar Mamadou,2001-09-08,20,SGP,Midfielder,21,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-146,77,Muhamad Anaqi Bin Ismit,2001-08-24,20,SGP,Forward,21,Lion City Sailors FC,4,4,180:00:00,0,6,1,1,2,5,5,0,0,0.33,0.0,0,0,1
-147,80,Aizal Murhamdani Bin Ahmad,2001-03-26,21,SGP,Midfielder,21,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-148,3,Muhammad Ryaan Bin Sanizal,2002-05-31,20,SGP,Defender,20,Tampines Rovers FC,8,7,590:20:00,0,2,0,0,1,7,2,1,0,0.5,0.0,1,1,0
-149,4,Shuya Yamashita,1998-04-16,24,JPN,Defender,24,Tampines Rovers FC,10,10,900:00:00,1,8,0,0,2,10,4,1,0,0.25,0.12,0,0,1
-150,5,Danish Irfan Bin Azman,1999-03-10,23,SGP,Defender,23,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1
-151,6,Iman Hakim Bin Ibrahim,2002-03-09,20,SGP,Midfielder,20,Tampines Rovers FC,1,0,45:00:00,0,0,0,0,0,1,1,0,0,0.0,0.0,1,1,0
-152,7,Muhammad Yasir Bin Hanapi,1989-06-21,32,SGP,Midfielder,33,Tampines Rovers FC,9,9,751:19:00,0,8,2,2,5,19,14,4,0,0.62,0.0,0,1,0
-153,8,Kyoga Nakamura,1996-04-25,26,JPN,Midfielder,26,Tampines Rovers FC,10,10,900:00:00,0,20,5,5,7,13,24,2,0,0.35,0.0,0,1,0
-154,9,BORIS KOPITOVIC,1995-04-27,27,MNE,Forward,27,Tampines Rovers FC,10,10,900:00:00,12,52,4,4,22,24,12,1,0,0.42,0.23,0,1,0
-155,10,Zehrudin Mehmedovic,1998-03-15,24,SRB,Midfielder,24,Tampines Rovers FC,10,10,865:37:00,3,19,3,3,12,9,14,3,0,0.63,0.16,0,1,0
-156,11,Muhammad Shameer Aziq Bin Abdul Razak,1995-12-30,26,SGP,Defender,27,Tampines Rovers FC,1,0,2:47,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0
-157,12,Muhammad Amirul Haikal Bin Mohamed Hassim,1999-10-11,22,SGP,Defender,23,Tampines Rovers FC,8,5,395:56:00,0,2,2,2,1,3,7,1,0,0.5,0.0,3,1,0
-158,13,Mohamad Taufik Bin Suparno,1995-10-31,26,SGP,Forward,27,Tampines Rovers FC,10,10,754:51:00,3,23,1,1,12,31,23,2,0,0.52,0.13,0,1,0
-159,14,Wei Ming Marc Ryan Tan,2002-01-18,20,SGP,Midfielder,20,Tampines Rovers FC,7,0,107:18:00,1,6,0,0,2,4,3,1,0,0.33,0.17,7,1,0
-160,15,Syed Firdaus Bin Syed Hassan,1998-05-30,24,SGP,Midfielder,24,Tampines Rovers FC,5,1,86:56:00,0,0,0,0,0,1,1,1,0,0.0,0.0,4,0,0
-161,17,Muhammad Irwan Shah Bin Arismail,1988-11-02,33,SGP,Defender,34,Tampines Rovers FC,10,7,613:34:00,0,0,0,0,0,16,6,2,0,0.0,0.0,3,1,0
-162,21,Mohammad Firdaus Bin Kasman,1988-01-24,34,SGP,Midfielder,34,Tampines Rovers FC,9,3,393:05:00,2,6,0,0,3,10,5,2,0,0.5,0.33,6,0,1
-163,22,Christopher James Van Huizen,1992-11-28,29,SGP,Midfielder,30,Tampines Rovers FC,9,8,698:49:00,2,8,0,0,4,7,5,1,0,0.5,0.25,1,0,1
-164,23,Mohammad Irfan Bin Mohammad Najeeb,1999-07-31,22,SGP,Defender,23,Tampines Rovers FC,4,2,176:26:00,0,2,0,0,0,1,1,1,0,0.0,0.0,2,1,0
-165,24,Muhammad Syazwan Bin Buhari,1992-09-22,29,SGP,Goal Keeper,30,Tampines Rovers FC,10,10,900:00:00,0,0,0,0,0,0,3,0,0,0.0,0.0,0,1,0
-166,31,Danial Iliya Bin Khairuddin,2003-02-06,19,SGP,Goal Keeper,19,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-167,32,Yu En Ong,2003-10-03,18,SGP,Midfielder,19,Tampines Rovers FC,7,5,351:15:00,0,3,0,0,1,2,12,0,0,0.33,0.0,2,0,1
-168,40,Yang Guang Sunny Tia,2004-02-25,18,SGP,Goal Keeper,18,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1
-169,51,Taras Goh,2005-05-26,17,SGP,Midfielder,17,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-170,54,Jovan Ang,2006-08-23,15,SGP,Defender,16,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-171,55,Ethan Henry Pinto,2004-10-14,17,SGP,Midfielder,18,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-172,56,Muhamad Ali Manaf,2005-01-06,17,SGP,Forward,17,Tampines Rovers FC,2,0,11:22,0,0,0,0,0,1,2,0,0,0.0,0.0,2,0,0
-173,57,Adam Reefdy Bin Muhammad Hasyim,2004-05-08,18,SGP,Defender,18,Tampines Rovers FC,10,3,319:13:00,0,0,0,0,0,5,2,1,0,0.0,0.0,7,1,0
-174,58,Caelan Cheong Tze Jay,2006-01-22,16,SGP,Midfielder,16,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-175,60,Matthias Josaphat Koesno,2006-07-13,15,SGP,Midfielder,16,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-176,70,Andrew Yong Rei Aw,2003-03-29,19,SGP,Defender,19,Tampines Rovers FC,7,0,136:05:00,0,1,0,0,0,3,2,0,0,0.0,0.0,7,1,0
-177,77,Amir Mirza Bin Rudy Iskandar,2003-04-10,19,SGP,Midfielder,19,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-178,1,Veer Karan Sobti,2004-05-06,18,SGP,Goal Keeper,18,Tanjong Pagar United FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-179,2,Mohammed Faritz Bin Abdul Hameed,1990-01-16,32,SGP,Defender,32,Tanjong Pagar United FC,10,10,900:00:00,1,17,0,0,6,7,9,4,0,0.35,0.06,0,1,0
-180,3,Muhammad Shahrin Bin Saberin,1995-02-14,27,SGP,Defender,27,Tanjong Pagar United FC,3,2,160:44:00,0,1,1,1,0,0,2,0,0,0.0,0.0,1,1,0
-181,4,Mohamed Faizal Bin Mohamed Raffi,1996-01-20,26,SGP,Midfielder,26,Tanjong Pagar United FC,7,2,280:23:00,1,3,0,0,1,5,1,0,1,0.33,0.33,5,0,1
-182,5,Yu Min Emmeric Ong,1991-01-25,31,SGP,Defender,31,Tanjong Pagar United FC,9,7,630:58:00,0,0,0,0,0,6,5,1,0,0.0,0.0,2,1,0
-183,6,Muhammad Fathullah Bin Rahmat,2002-09-05,19,SGP,Midfielder,20,Tanjong Pagar United FC,9,7,441:08:00,0,3,0,0,1,10,3,3,0,0.33,0.0,2,1,0
-184,7,Muhamad Rusyaidi Bin Salime,1998-04-25,24,SGP,Midfielder,24,Tanjong Pagar United FC,7,4,443:05:00,1,3,1,1,2,5,3,3,0,0.67,0.33,3,1,0
-185,8,Daniel Mark Bennett,1978-01-07,44,SGP,Defender,44,Tanjong Pagar United FC,5,4,376:52:00,0,2,0,0,0,4,2,0,0,0.0,0.0,1,0,1
-186,9,Reo Nishiguchi,1997-08-21,24,JPN,Midfielder,25,Tanjong Pagar United FC,11,11,990:00:00,11,33,4,4,22,9,5,1,0,0.67,0.33,0,1,0
-187,10,Muhammad Syukri Bin Mohd Bashir,1998-04-11,24,SGP,Forward,24,Tanjong Pagar United FC,5,3,168:15:00,0,4,0,0,3,4,4,0,0,0.75,0.0,2,0,0
-188,11,Muhammad Shakir Bin Hamzah,1992-10-20,29,SGP,Defender,30,Tanjong Pagar United FC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-189,12,Muhammad Khairul Nizam Bin Mohammad Kamal,1991-06-25,30,SGP,Forward,31,Tanjong Pagar United FC,4,1,141:07:00,1,5,0,0,1,1,2,0,0,0.2,0.2,3,0,1
-190,13,Muhammad Aqhari Bin Abdullah,1991-07-09,30,SGP,Midfielder,31,Tanjong Pagar United FC,10,10,865:25:00,0,5,2,2,3,9,22,4,0,0.6,0.0,0,0,1
-191,14,Mohamad Naufal Ilham Bin Mohamad Ismail,2002-08-17,19,SGP,Midfielder,20,Tanjong Pagar United FC,3,2,141:20:00,0,1,0,0,0,2,2,1,0,0.0,0.0,1,1,0
-192,15,Shodai Nishikawa,1993-09-21,28,JPN,Midfielder,29,Tanjong Pagar United FC,10,10,900:00:00,2,7,1,1,4,12,11,0,0,0.57,0.29,0,1,0
-193,16,Muhammad Raihan Abdul Rahman,1991-02-07,31,SGP,Midfielder,31,Tanjong Pagar United FC,10,9,842:43:00,0,4,2,2,1,8,7,5,0,0.25,0.0,1,1,0
-194,17,MUHAMMAD RYAN SYAFFIQ BIN RAMLI,1995-03-04,27,SGP,Midfielder,27,Tanjong Pagar United FC,1,0,1:00,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0
-195,18,Mohammad Fashah Iskandar Bin S Rosedin,1995-05-06,27,SGP,Goal Keeper,27,Tanjong Pagar United FC,1,1,90:00:00,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-196,19,Mohammad Khairul Amri Bin Mohammad Kamal,1985-03-14,37,SGP,Forward,37,Tanjong Pagar United FC,8,3,398:31:00,2,14,1,1,6,7,5,2,0,0.43,0.14,5,1,0
-197,20,Blake Ashley Ricciuto,1992-09-02,29,AUS,Midfielder,30,Tanjong Pagar United FC,11,11,990:00:00,1,14,2,2,8,26,29,2,0,0.57,0.07,0,1,0
-198,21,Mirko Sugic,1994-04-25,28,CRO,Midfielder,28,Tanjong Pagar United FC,11,11,990:00:00,3,11,4,4,4,6,12,3,0,0.36,0.27,0,0,0
-199,22,Hadiputradila Bin Saswadimata,2000-02-05,22,SGP,Forward,22,Tanjong Pagar United FC,1,0,24:51:00,0,0,0,0,0,0,0,0,0,0.0,0.0,1,1,0
-200,28,Muhammad Zharfan Bin Rohaizad,1997-02-21,25,SGP,Goal Keeper,25,Tanjong Pagar United FC,10,10,900:00:00,0,0,0,0,0,0,4,0,0,0.0,0.0,0,1,0
-201,40,Akram Bin Azman,2000-11-21,21,SGP,Defender,22,Tanjong Pagar United FC,4,3,213:30:00,0,0,1,1,0,5,3,1,0,0.0,0.0,1,0,0
-202,1,UMAYR BIN SUJUANDY,2003-02-18,19,SGP,Goal Keeper,19,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-203,2,Raoul Bin Suhaimi,2005-09-18,16,SGP,Defender,17,Young Lions,3,1,82:47:00,0,1,0,0,1,3,2,1,0,1.0,0.0,2,1,0
-204,3,Jordan Efa Okwudili Emaviwe,2001-04-09,21,SGP,Defender,21,Young Lions,3,3,232:31:00,1,5,0,0,3,1,5,0,0,0.6,0.2,0,1,0
-205,5,Muhammad Syabil Bin Hisham,2002-09-20,19,SGP,Defender,20,Young Lions,5,5,439:53:00,0,1,0,0,1,9,8,0,0,1.0,0.0,0,1,0
-206,6,Jacob William Mahler,2000-04-10,22,SGP,Defender,22,Young Lions,7,7,579:45:00,0,5,0,0,2,4,9,1,0,0.4,0.0,0,1,0
-207,8,Nur Muhammad Shah Bin Shahiran,1999-11-14,22,SGP,Midfielder,23,Young Lions,7,7,619:07:00,0,6,0,0,1,12,11,2,0,0.17,0.0,0,1,0
-208,9,Vasileios Ming Xun Chua Zikos,2002-04-15,20,SGP,Forward,20,Young Lions,6,4,330:13:00,3,9,1,1,4,6,2,0,0,0.44,0.33,2,0,1
-209,10,"Jia Jin, Glenn Kweh",2000-03-26,22,SGP,Forward,22,Young Lions,7,3,369:05:00,0,10,2,2,1,5,5,0,0,0.1,0.0,4,1,0
-210,11,Abdul Rasaq Ishiekwene Akeem,2001-06-16,20,SGP,Midfielder,21,Young Lions,1,0,19:00,0,1,0,0,1,0,0,0,0,1.0,0.0,1,1,0
-211,12,Joel Joon Herng Chew,2000-02-09,22,SGP,Midfielder,22,Young Lions,7,7,552:03:00,0,10,2,2,3,3,4,1,0,0.3,0.0,0,1,0
-212,13,Muhammad Syahrul Bin Sazali,1998-06-03,23,SGP,Defender,24,Young Lions,6,5,466:27:00,0,0,1,1,0,3,3,1,0,0.0,0.0,1,1,0
-213,14,Rezza Rezky Ramadhani Bin Yacobjan,2000-11-08,21,SGP,Midfielder,22,Young Lions,3,0,29:49:00,0,0,0,0,0,0,2,0,0,0.0,0.0,3,1,0
-214,15,Amir Syafiz Bin Abdul Rashid,2004-06-21,17,SGP,Midfielder,18,Young Lions,4,3,228:16:00,0,5,0,0,2,5,6,1,0,0.4,0.0,1,1,0
-215,16,Ryhan Euan Griffin Stewart,2000-02-15,22,SGP,Defender,22,Young Lions,5,5,374:14:00,3,8,0,0,3,2,14,1,0,0.38,0.38,0,1,0
-216,18,Ridhwan Fikri Bin Aban,1999-04-29,23,SGP,Goal Keeper,23,Young Lions,7,7,630:00:00,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-217,19,Khairin Nadim Bin Rahim,2004-05-08,18,SGP,Forward,18,Young Lions,7,6,547:21:00,0,13,1,1,10,5,11,0,0,0.77,0.0,1,1,0
-218,20,Nor Hakim Bin Redzuan,2000-10-21,21,SGP,Forward,22,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-219,21,Muhammad Zulqarnaen Bin Suzliman,1998-03-29,24,SGP,Defender,24,Young Lions,3,3,243:55:00,2,3,0,0,2,6,2,1,0,0.67,0.67,0,1,0
-220,22,Danish Qayyum Putra Shahrin Azhar,2002-02-02,20,SGP,Defender,20,Young Lions,4,1,106:07:00,0,0,1,1,0,1,4,1,0,0.0,0.0,3,1,0
-221,25,Dylan Pereira Singh S/o Rameshpal Singh,2000-07-31,21,SGP,Goal Keeper,22,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-222,26,Danial Scott Crichton,2003-04-11,19,SGP,Defender,19,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1,0
-223,27,Mohammed Arshad Bin Shamim,1999-12-09,22,SGP,Midfielder,23,Young Lions,5,1,126:53:00,0,1,0,0,1,5,2,1,0,1.0,0.0,4,1,0
-224,28,Syed Muhamad Akmal Bin Syed Abdul Aziz,2000-04-28,22,SGP,Defender,22,Young Lions,4,1,155:19:00,0,1,0,0,0,3,1,0,0,0.0,0.0,3,1,0
-225,29,Muhammad Harith Bin Kanadi,2000-08-01,21,SGP,Defender,22,Young Lions,4,3,292:04:00,0,4,0,0,3,3,5,2,0,0.75,0.0,1,0,1
-226,30,Jared Sean Gallagher,2002-01-18,20,SGP,Midfielder,20,Young Lions,5,3,307:27:00,0,1,0,0,0,9,6,1,0,0.0,0.0,2,0,0
-227,33,MUHAMMAD FAIRUZ MUHAMMAD FAZLI KOH,2005-01-20,17,SGP,Midfielder,17,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-228,34,Ryu Hardy Yussri,2005-04-20,17,SGP,Midfielder,17,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
-229,35,MUHAMMAD 'RAUF BIN MOHAMED ERWAN,2005-04-25,17,SGP,Goal Keeper,17,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0
+0,2,Tatsuya Sambongi,28/7/1999,22,JPN,Defender,23,Albirex Niigata FC (S),0,4,385:13:00,0,1,0,0,0,0,3,0,0,0,0,-4,0,0
+1,3,Keito Hariya,18/5/2003,19,JPN,Defender,19,Albirex Niigata FC (S),0,8,748:54:00,0,2,1,1,0,0,5,0,0,0,0,-8,0,0
+2,4,Jun Kobayashi,7/5/1999,23,JPN,Defender,23,Albirex Niigata FC (S),0,10,900:00:00,0,6,0,0,0,0,3,0,0,0,0,-10,0,0
+3,5,Daichi Omori,1/4/2000,22,JPN,Defender,22,Albirex Niigata FC (S),0,10,900:00:00,0,15,3,3,0,0,17,0,0,0,0,-10,0,0
+4,6,Kumpei Kakuta,8/5/1999,23,JPN,Midfielder,23,Albirex Niigata FC (S),0,10,897:47:00,0,14,0,0,0,0,8,0,0,0,0,-10,0,0
+5,7,Masahiro Sugita,24/11/1999,22,JPN,Midfielder,23,Albirex Niigata FC (S),0,9,805:48:00,0,23,3,3,0,0,9,0,0,0,0,-9,0,0
+6,8,Masaya Idetsu,11/5/1999,23,JPN,Midfielder,23,Albirex Niigata FC (S),0,5,450:00:00,0,8,6,6,0,0,4,0,0,0,0,-5,0,0
+7,9,Muhammad Fikri Bin Junaidi,2/4/2000,22,SGP,Forward,22,Albirex Niigata FC (S),3,0,0,1,0,0,0,1,5,0,0,0,inf,inf,3,1,0
+8,10,Kan Kobayashi,27/4/1999,23,JPN,Midfielder,23,Albirex Niigata FC (S),0,10,900:00:00,0,27,4,4,0,0,7,0,0,0,0,-10,0,0
+9,11,Kodai Tanaka,23/12/1999,22,JPN,Forward,23,Albirex Niigata FC (S),0,9,827:21:00,0,40,2,2,0,0,5,0,0,0,0,-9,0,0
+10,13,Mahiro Takahashi,26/6/2001,20,JPN,Midfielder,21,Albirex Niigata FC (S),10,0,14:04,0,0,0,0,3,6,0,0,0,inf,0,10,1,0
+11,14,Reo Kunimoto,1/9/2001,20,JPN,Defender,21,Albirex Niigata FC (S),20,2,177:24:00,2,2,0,0,4,18,1,2,0,2,1,18,1,0
+12,15,Tsubasa Kawanishi,12/6/2002,19,JPN,Defender,20,Albirex Niigata FC (S),1,0,23:01,0,1,0,0,0,1,0,0,0,0,0,1,1,0
+13,16,Shogo Toyomura,6/11/1999,22,JPN,Defender,23,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,17,Ilhan Fandi Ahmad,8/11/2002,19,SGP,Forward,20,Albirex Niigata FC (S),0,0,34:00:00,0,3,1,1,0,0,0,0,0,0,0,0,0,1
+15,18,Nicky Melvin Singh,13/6/2002,19,SGP,Midfielder,20,Albirex Niigata FC (S),13,6,375:57:00,1,10,1,1,6,13,13,0,0,0.6,0.1,7,1,0
+16,19,Tadanari Lee,19/12/1985,36,JPN,Forward,37,Albirex Niigata FC (S),0,9,799:52:00,0,22,4,4,0,0,14,0,0,0,0,-9,0,0
+17,20,Muhammad Fairoz Bin Hasan,26/11/1988,33,SGP,Forward,34,Albirex Niigata FC (S),8,1,137:07:00,0,11,0,0,1,8,0,0,0,0.09,0,7,1,0
+18,21,Mohamed Hyrulnizam Bin Juma'at,14/11/1986,35,SGP,Goal Keeper,36,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+19,22,Shota Ochiai,23/6/2002,19,JPN,Forward,20,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,23,Muhammad Hilman Bin Norhisam,24/5/2004,18,SGP,Midfielder,18,Albirex Niigata FC (S),0,1,45:00:00,0,0,0,0,0,0,0,0,0,0,0,-1,1,0
+21,24,Muhammad Zamani Bin Md Zamri,31/5/2001,21,SGP,Midfielder,21,Albirex Niigata FC (S),0,3,185:06:00,0,3,1,1,0,0,8,0,0,0,0,-3,0,1
+22,25,Yoshiki Matsuura,5/4/2001,21,JPN,Defender,21,Albirex Niigata FC (S),0,2,146:37:00,0,1,0,0,0,0,2,0,0,0,0,-2,0,0
+23,26,Kanato Fukazawa,4/12/2001,20,JPN,Midfielder,21,Albirex Niigata FC (S),0,1,224:35:00,0,8,0,0,0,0,7,0,0,0,0,-1,0,0
+24,27,Satsuki Mori,29/11/2001,20,JPN,Midfielder,21,Albirex Niigata FC (S),0,0,22:07,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+25,31,Takahiro Koga,11/3/1999,23,JPN,Goal Keeper,23,Albirex Niigata FC (S),21,10,900:00:00,0,0,0,0,0,0,2,0,0,0,0,11,1,0
+26,51,Kai Yamamoto,21/6/2005,16,JPN,Goal Keeper,17,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,52,Junki Kenn Yoshimura,20/7/2004,17,SGP,Midfielder,18,Albirex Niigata FC (S),1,0,0:00,0,0,0,0,1,2,0,0,0,inf,0,1,1,0
+28,53,Jun Kai Wong,21/10/2003,18,SGP,Midfielder,19,Albirex Niigata FC (S),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,1,Hairul Syirhan Bin Mardan,21/8/1995,26,SGP,Goal Keeper,27,Balestier Khalsa FC,6,6,540:00:00,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+30,3,Keshav Kumar S/O Kishore Kumar,6/2/2001,21,SGP,Defender,21,Balestier Khalsa FC,3,0,8:58,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+31,4,Delwinder Singh S/o Ranjit Singh,5/8/1992,29,SGP,Defender,30,Balestier Khalsa FC,10,9,815:37:00,0,3,0,0,0,5,10,3,1,0,0,1,0,1
+32,5,Ensar Bruncevic,13/2/1999,23,SRB,Defender,23,Balestier Khalsa FC,11,11,990:00:00,2,6,1,1,6,13,11,1,0,1,0.33,0,1,0
+33,6,C Aarish Kumar,19/5/1999,23,SGP,Midfielder,23,Balestier Khalsa FC,2,2,75:00:00,0,1,0,0,1,3,1,0,0,1,0,0,1,0
+34,7,Ji Xiong Daniel Goh,13/8/1999,22,SGP,Midfielder,23,Balestier Khalsa FC,2,1,112:44:00,0,1,0,0,0,1,1,0,0,0,0,1,0,1
+35,8,Ammirul Emmran Bin Mazlan,18/4/1995,27,SGP,Midfielder,27,Balestier Khalsa FC,9,7,673:45:00,0,0,0,0,0,7,5,2,0,0,0,2,0,1
+36,9,Shuhei Hoshino,19/12/1995,26,JPN,Forward,27,Balestier Khalsa FC,10,10,900:00:00,7,31,0,0,13,13,21,1,0,0.42,0.23,0,1,0
+37,10,Ryoya Taniguchi,31/8/1999,22,JPN,Forward,23,Balestier Khalsa FC,11,11,990:00:00,2,23,6,6,10,16,37,1,0,0.43,0.09,0,0,1
+38,11,Kuraba Kondo,6/7/2002,19,JPN,Forward,20,Balestier Khalsa FC,11,11,963:54:00,3,17,2,2,9,11,17,0,0,0.53,0.18,0,0,1
+39,12,Yi Jie Martyn Mun,7/1/2000,22,SGP,Goal Keeper,22,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+40,13,Muhammad Amer Hakeem Bin Mohamad Nazri,8/11/1998,23,SGP,Defender,24,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+41,14,Hariysh S/O Krishnakumar,23/10/2002,19,SGP,Midfielder,20,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+42,16,Ting Wei Darren Teh,19/8/1996,25,SGP,Defender,26,Balestier Khalsa FC,11,10,911:26:00,0,0,3,3,0,8,16,0,0,0,0,1,0,1
+43,17,Naufal Bin Azman,10/7/1998,23,SGP,Forward,24,Balestier Khalsa FC,7,2,289:23:00,0,9,0,0,3,3,3,0,0,0.33,0,5,0,1
+44,18,Riki Kimura,14/11/2000,21,SGP,Goal Keeper,22,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+45,19,Muhammad Asshukrie Bin Wahid,27/2/1998,24,SGP,Midfielder,24,Balestier Khalsa FC,4,2,162:20:00,0,1,0,0,1,1,2,0,0,1,0,2,0,1
+46,20,Rudy Khairullah Bin Adi Negara,19/7/1994,27,SGP,Goal Keeper,28,Balestier Khalsa FC,5,5,450:00:00,0,0,0,0,0,0,1,2,0,0,0,0,0,1
+47,22,Puvan Raj Sivalingam,29/8/2001,20,SGP,Forward,21,Balestier Khalsa FC,1,1,45:00:00,0,0,0,0,0,2,2,1,0,0,0,0,1,0
+48,24,Wai Loon Ho,20/8/1993,28,SGP,Midfielder,29,Balestier Khalsa FC,10,10,847:38:00,0,4,0,0,1,10,17,1,0,0.25,0,0,1,0
+49,27,Akmal Bin Azman,21/11/2000,21,SGP,Midfielder,22,Balestier Khalsa FC,6,2,229:19:00,0,0,0,0,0,2,3,0,0,0,0,4,0,0
+50,28,Jun Kit Gareth Low,28/2/1997,25,SGP,Midfielder,25,Balestier Khalsa FC,10,10,783:12:00,1,3,1,1,2,11,5,1,0,0.67,0.33,0,1,0
+51,29,Aidil Bin Johari,5/4/2003,19,SGP,Midfielder,19,Balestier Khalsa FC,10,6,686:14:00,0,0,0,0,0,4,8,2,0,0,0,4,1,0
+52,30,Yu Heng Ignatius Ang,11/11/1992,29,SGP,Midfielder,30,Balestier Khalsa FC,7,1,157:19:00,0,1,0,0,1,6,1,0,0,1,0,6,0,0
+53,39,Aiman Zavyan Zuraiddy,7/6/2002,19,SGP,Defender,20,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+54,54,Chee Keat Larry Lim,2/7/2002,19,SGP,Midfielder,20,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,66,Ryan Praveen Tamil Selven,28/5/2002,20,SGP,Defender,20,Balestier Khalsa FC,2,0,45:54:00,0,0,0,0,0,3,1,0,0,0,0,2,1,0
+56,67,Mohammad Iftiqar Bin Mohammad Parizan,21/4/2003,19,SGP,Midfielder,19,Balestier Khalsa FC,1,1,45:00:00,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+57,68,Suffian Bin Abdullah,12/4/2004,18,SGP,Goal Keeper,18,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,70,Mohamed Asraf Rilwan S/O Nazimudeen,3/12/2003,18,SGP,Midfielder,19,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,72,Max Vijay Callum McCoy,3/4/2004,18,GBR,Forward,18,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,74,Yann Emmanuel Henri Weishaupt,2/1/2004,18,FRA,Midfielder,18,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,77,Hari Connor Vinay McCoy,11/9/2002,19,GBR,Forward,20,Balestier Khalsa FC,1,1,32:08:00,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+62,79,N Sakthivelchezhian,9/12/2002,19,SGP,Forward,20,Balestier Khalsa FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,80,Muhammad Aqil Mohamed Yazid,9/1/2004,18,SGP,Defender,18,Balestier Khalsa FC,2,2,135:00:00,0,0,0,0,0,3,0,1,0,0,0,0,1,0
+64,1,Mohamed Zulfairuuz Bin Mohamed Rudy,22/5/1994,28,SGP,Goal Keeper,28,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+65,2,Muhammad Fadli Bin Kamis,7/11/1992,29,SGP,Defender,30,Geylang International FC,6,6,508:44:00,0,0,1,1,0,4,8,0,0,0,0,0,0,1
+66,3,Mohamed Ilhan Bin Mohamed Noor,19/12/2002,19,SGP,Defender,20,Geylang International FC,7,2,183:41:00,0,0,0,0,0,3,2,0,0,0,0,5,1,0
+67,4,Takahiro Tezuka,25/6/1998,23,JPN,Midfielder,24,Geylang International FC,10,10,900:00:00,1,15,1,1,7,11,5,1,0,0.47,0.07,0,0,1
+68,5,Joshua Bernard Pereira,10/10/1997,24,SGP,Midfielder,25,Geylang International FC,1,1,29:14:00,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+69,6,Abdil Qaiyyim Bin Abdul Mutalib,14/5/1989,33,SGP,Defender,33,Geylang International FC,7,6,509:37:00,1,2,1,1,1,4,5,1,0,0.5,0.5,1,1,0
+70,7,Mohammad Hazzuwan Mohammad Halim,2/2/1994,28,SGP,Forward,28,Geylang International FC,10,10,806:33:00,2,18,1,1,7,6,8,0,0,0.39,0.11,0,0,1
+71,8,Muhammad Fareez Bin Mohd Farhan,29/7/1994,27,SGP,Forward,28,Geylang International FC,8,1,218:50:00,0,6,1,1,4,3,2,0,0,0.67,0,7,1,0
+72,9,Sime Zuzul,10/1/1996,26,CRO,Forward,26,Geylang International FC,10,10,900:00:00,5,22,1,1,14,16,18,0,0,0.64,0.23,0,0,1
+73,10,VINCENT BEZECOURT,10/6/1993,28,FRA,Midfielder,29,Geylang International FC,10,10,900:00:00,1,31,1,1,4,15,28,1,0,0.13,0.03,0,0,0
+74,11,Huzaifah Abdul Aziz,27/6/1994,27,SGP,Midfielder,28,Geylang International FC,10,10,824:01:00,0,2,0,0,0,27,22,2,0,0,0,0,0,1
+75,13,Rio Sakuma,14/4/1997,25,JPN,Defender,25,Geylang International FC,10,10,900:00:00,0,5,0,0,1,11,1,0,0,0.2,0,0,0,0
+76,14,Ahmad Syahir Bin Sahimi,10/4/1992,30,SGP,Defender,30,Geylang International FC,9,7,667:46:00,0,3,1,1,2,19,10,3,1,0.67,0,2,0,1
+77,15,Mohammad Faizal Bin Roslan,30/5/1995,27,SGP,Defender,27,Geylang International FC,8,8,689:08:00,0,6,0,0,2,8,1,1,1,0.33,0,0,1,0
+78,16,Umar Akhbar Ramle,2/5/1996,26,SGP,Midfielder,26,Geylang International FC,4,0,155:29:00,0,2,0,0,0,3,7,1,0,0,0,4,1,0
+79,18,Khairul Hairie Bin Abdul Hamid,9/4/2000,22,SGP,Midfielder,22,Geylang International FC,8,8,453:43:00,1,6,0,0,1,5,7,0,0,0.17,0.17,0,0,0
+80,19,Zaiful Nizam Bin Abdullah,24/7/1987,34,SGP,Goal Keeper,35,Geylang International FC,9,9,810:00:00,0,0,0,0,0,0,0,2,0,0,0,0,1,0
+81,20,S Suria Prakash,23/12/1993,28,SGP,Midfielder,29,Geylang International FC,1,0,3:47,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+82,21,Muhammad Hafiz Bin Ahmad,30/12/1998,23,SGP,Goal Keeper,24,Geylang International FC,1,1,90:00:00,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+83,22,Hai Ngee Yeo,12/1/1995,27,SGP,Midfielder,27,Geylang International FC,2,0,17:27,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+84,23,Muhammad Zulfadhmi Bin Suzliman,10/2/1996,26,SGP,Forward,26,Geylang International FC,2,0,79:54:00,0,0,0,0,0,2,4,0,0,0,0,2,0,0
+85,24,Qayyum Raishyan Bin Rahmat,5/12/2000,21,SGP,Defender,22,Geylang International FC,1,0,45:00:00,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+86,52,Muhammad Danish Siregar Bin Sahat Siregar,1/3/2003,19,SGP,Midfielder,19,Geylang International FC,1,0,23:20,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+87,53,Muhammad Badrul Amin Bin Noh,12/2/2002,20,SGP,Defender,20,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,54,Jia Jun Kieran Teo,6/4/2004,18,SGP,Defender,18,Geylang International FC,2,1,117:15:00,0,1,0,0,1,3,0,1,0,1,0,1,1,0
+89,55,MUHAMMAD DANISH HAZIQ BIN MOHAMMAD HANAFI,12/6/2002,19,SGP,Forward,20,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,59,Muhammad Furqan Abdul Raoff,26/3/2002,20,SGP,Midfielder,20,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+91,65,MUHAMMAD ANIQ YUSOFF,24/12/2004,17,SGP,Goal Keeper,18,Geylang International FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,1,Mukundan Malaiya Maran,21/7/1998,23,SGP,Goal Keeper,24,Hougang United FC,4,4,360:00:00,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+93,2,Anders Eric Aplin,21/6/1991,30,SGP,Defender,31,Hougang United FC,8,5,464:49:00,0,2,0,0,0,5,4,2,1,0,0,3,1,0
+94,4,Muhammad Nazrul Bin Ahmad Nazari,11/2/1991,31,SGP,Defender,31,Hougang United FC,8,8,720:00:00,1,2,1,1,2,13,9,1,0,1,0.5,0,1,0
+95,5,Han Wei Lionel Tan,5/6/1997,24,SGP,Defender,25,Hougang United FC,8,8,720:00:00,0,3,1,1,1,8,2,1,0,0.33,0,0,1,0
+96,6,Kaishu Yamazaki,12/7/1997,24,JPN,Midfielder,25,Hougang United FC,11,11,990:00:00,2,13,0,0,4,9,13,0,0,0.31,0.15,0,1,0
+97,7,Muhammad Shahfiq Bin Ghani,17/3/1992,30,SGP,Midfielder,30,Hougang United FC,7,3,206:26:00,0,3,2,2,1,4,1,0,0,0.33,0,4,1,0
+98,8,Muhammad Hafiz Bin Abu Sujad,1/11/1990,31,SGP,Defender,32,Hougang United FC,5,2,281:31:00,1,4,1,1,2,5,2,2,0,0.5,0.25,3,1,0
+99,9,Pedro Gomes Bortoluzo,17/7/1996,25,BRA,Forward,26,Hougang United FC,7,6,550:41:00,3,19,1,1,5,10,11,2,0,0.26,0.16,1,0,0
+100,10,Muhammad Shawal Bin Anuar,29/4/1991,31,SGP,Forward,31,Hougang United FC,7,6,516:47:00,1,6,1,1,2,7,10,0,0,0.33,0.17,1,1,0
+101,11,Muhammad Afiq Bin Mat Noor,25/12/1993,28,SGP,Midfielder,29,Hougang United FC,4,0,40:22:00,0,0,0,0,0,3,1,1,0,0,0,4,1,0
+102,12,Wing Hong Fabian Kwok,17/3/1989,33,SGP,Midfielder,33,Hougang United FC,6,4,358:01:00,0,1,1,1,0,6,4,0,0,0,0,2,1,0
+103,13,Muhammad Ridhuan Bin Barudin,23/3/1987,35,SGP,Goal Keeper,35,Hougang United FC,7,7,630:00:00,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+104,14,Kristijan Krajcek,1/10/1993,28,CRO,Midfielder,29,Hougang United FC,8,8,701:48:00,1,23,1,1,7,21,12,1,0,0.3,0.04,0,0,1
+105,16,Faiz Bin Mohd Salleh,17/7/1992,29,SGP,Defender,30,Hougang United FC,2,2,180:00:00,0,0,0,0,0,1,2,0,0,0,0,0,1,0
+106,17,Mohammad Shahril Bin Ishak,23/1/1984,38,SGP,Forward,38,Hougang United FC,9,3,335:46:00,0,3,0,0,1,2,7,0,0,0.33,0,6,1,0
+107,19,Amy Recha Pristifana Bin Samion,13/5/1992,30,SGP,Forward,30,Hougang United FC,10,7,684:16:00,1,10,0,0,6,10,7,0,0,0.6,0.1,3,0,1
+108,20,Muhammad Muhaimin Bin Suhaimi,20/2/1995,27,SGP,Midfielder,27,Hougang United FC,6,4,337:09:00,0,2,0,0,0,7,9,1,0,0,0,2,1,0
+109,21,Muhammad Nazhiim Bin Harman,2/3/1999,23,SGP,Defender,23,Hougang United FC,9,7,596:45:00,0,0,0,0,0,6,3,5,0,0,0,2,0,1
+110,22,Kishson Silvanus Philip,26/11/1999,22,SGP,Midfielder,23,Hougang United FC,2,0,11:22,0,0,0,0,0,2,0,0,0,0,0,2,1,0
+111,23,Mohamad Sahil Bin Suhaimi,8/7/1992,29,SGP,Forward,30,Hougang United FC,8,3,410:22:00,3,15,1,1,8,6,14,0,0,0.53,0.2,5,1,0
+112,24,Muhammad Amir Bin Zalani,4/12/1996,25,SGP,Midfielder,26,Hougang United FC,5,3,206:09:00,0,0,0,0,0,2,0,0,0,0,0,2,1,0
+113,25,Muhammad Aizil Mohamed Yazid,24/12/2004,17,SGP,Goal Keeper,18,Hougang United FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+114,30,Andre Francisco Moritz,6/8/1986,35,BRA,Midfielder,36,Hougang United FC,9,8,657:20:00,4,28,2,2,9,17,25,3,0,0.32,0.14,1,0,0
+115,37,Muhammad Zulfahmi Bin Mohd Arifin,5/10/1991,30,SGP,Midfielder,31,Hougang United FC,7,6,562:30:00,1,2,0,0,1,6,4,0,0,0.5,0.5,1,0,0
+116,55,Muhammad Farhan Bin Zulkifli,10/11/2002,19,SGP,Midfielder,20,Hougang United FC,5,5,265:24:00,0,1,0,0,0,6,7,2,0,0,0,0,1,0
+117,66,Ajay Robson s/o Muralitharan,6/12/2003,18,SGP,Defender,19,Hougang United FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,1,Mohamad Izwan Bin Mahbud,14/7/1990,31,SGP,Goal Keeper,32,Lion City Sailors FC,3,3,270:00:00,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+119,2,Pedro Henrique Pereira Da Silva,18/12/1992,29,BRA,Defender,30,Lion City Sailors FC,8,8,642:53:00,0,4,0,0,0,8,3,0,1,0,0,0,0,0
+120,3,Tajeli Bin Salamat,7/2/1994,28,SGP,Defender,28,Lion City Sailors FC,6,6,439:48:00,0,1,0,0,0,5,6,0,0,0,0,0,1,0
+121,5,Muhammad Amirul Adli Bin Azmi,13/1/1996,26,SGP,Defender,26,Lion City Sailors FC,9,4,450:13:00,0,2,0,0,0,3,3,0,0,0,0,5,1,0
+122,6,Anumanthan S/O Mohan Kumar,14/7/1994,27,SGP,Midfielder,28,Lion City Sailors FC,8,4,376:12:00,0,1,0,0,1,11,8,2,0,1,0,4,0,0
+123,7,Uiyoung Song,8/11/1993,28,SGP,Midfielder,29,Lion City Sailors FC,9,8,578:19:00,2,19,2,2,7,19,18,2,0,0.37,0.11,1,1,0
+124,8,Shahdan Bin Sulaiman,9/5/1988,34,SGP,Midfielder,34,Lion City Sailors FC,9,8,731:49:00,1,8,2,2,2,8,1,1,0,0.25,0.12,1,1,0
+125,9,Shinwook Kim,14/4/1988,34,KOR,Forward,34,Lion City Sailors FC,10,7,672:21:00,9,30,0,0,14,8,7,0,0,0.47,0.3,3,0,0
+126,10,Diego Hipolito Da Silva Lopes,3/5/1994,28,BRA,Midfielder,28,Lion City Sailors FC,10,8,780:20:00,4,17,2,2,8,14,22,1,0,0.47,0.24,2,1,0
+127,11,Mohammad Hafiz Bin Mohd Nor,22/8/1988,33,SGP,Midfielder,34,Lion City Sailors FC,10,3,489:34:00,1,4,1,1,1,14,2,2,0,0.25,0.25,7,1,0
+128,12,Iqram Rifqi Bin Mohd Yazid,25/2/1996,26,SGP,Midfielder,26,Lion City Sailors FC,8,7,582:27:00,1,1,1,1,1,8,8,0,0,1,1,1,0,1
+129,13,Muhammad Adib Nur Hakim Bin Azahari,9/3/1998,24,SGP,Goal Keeper,24,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+130,14,Hariss S/O Harun,19/11/1990,31,SGP,Defender,32,Lion City Sailors FC,10,10,900:00:00,0,3,0,0,3,5,3,0,0,1,0,0,1,0
+131,16,Muhammad Hami Syahin Bin Said,16/12/1998,23,SGP,Midfielder,24,Lion City Sailors FC,3,1,76:17:00,0,1,0,0,0,3,1,1,0,0,0,2,0,1
+132,17,Maxime Christophe Lestienne,17/6/1992,29,BEL,Midfielder,30,Lion City Sailors FC,8,4,484:02:00,3,18,7,7,10,3,5,2,0,0.56,0.17,4,0,0
+133,18,Hassan Bin Abdullah Sunny,2/4/1984,38,SGP,Goal Keeper,38,Lion City Sailors FC,7,7,630:00:00,0,0,0,0,0,0,4,0,0,0,0,0,1,0
+134,19,Muhammad Naqiuddin Bin Ahmad Eunos,12/1/1997,25,SGP,Defender,25,Lion City Sailors FC,2,1,56:19:00,0,0,0,0,0,0,3,0,0,0,0,1,1,0
+135,22,Jun Yi Gabriel Quak,22/12/1990,31,SGP,Midfielder,32,Lion City Sailors FC,8,4,327:03:00,2,11,2,2,4,6,2,0,0,0.36,0.18,4,1,0
+136,23,Muhammad Amiruldin Asraf Bin Muhammad Nodin,8/1/1997,25,SGP,Forward,25,Lion City Sailors FC,2,2,110:59:00,0,0,0,0,0,3,2,0,0,0,0,0,1,0
+137,25,Haiqal Pashia Anugrah,29/11/1998,23,SGP,Midfielder,24,Lion City Sailors FC,4,1,140:45:00,1,4,1,1,2,2,5,0,0,0.5,0.25,3,1,0
+138,27,Adam Bin Swandi,12/1/1996,26,SGP,Midfielder,26,Lion City Sailors FC,7,2,255:26:00,0,1,0,0,0,5,4,1,0,0,0,5,1,0
+139,28,Muhammad Saifullah Bin Mohammad Akbar,31/1/1999,23,SGP,Midfielder,23,Lion City Sailors FC,3,3,143:33:00,0,2,0,0,0,5,3,2,0,0,0,0,1,0
+140,30,Muhammad Faris Bin Ramli,24/8/1992,29,SGP,Midfielder,30,Lion City Sailors FC,6,2,214:11:00,0,2,1,1,0,0,11,0,0,0,0,4,1,0
+141,51,Aniq Raushan Bin Mohamad Azra,5/10/2003,18,SGP,Defender,19,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+142,55,Jing Jie Glenn Ong,16/7/2003,18,SGP,Midfielder,19,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+143,62,Kieran Aryan Bin Azhari,31/5/2003,19,SGP,Midfielder,19,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,66,Muhammad Nur Adam Bin Abdullah,13/4/2001,21,SGP,Defender,21,Lion City Sailors FC,4,3,310:56:00,0,0,0,0,0,8,4,1,0,0,0,1,1,0
+145,71,Bah Bill Abuzar Mamadou,8/9/2001,20,SGP,Midfielder,21,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,77,Muhamad Anaqi Bin Ismit,24/8/2001,20,SGP,Forward,21,Lion City Sailors FC,4,4,180:00:00,0,6,1,1,2,5,5,0,0,0.33,0,0,0,1
+147,80,Aizal Murhamdani Bin Ahmad,26/3/2001,21,SGP,Midfielder,21,Lion City Sailors FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+148,3,Muhammad Ryaan Bin Sanizal,31/5/2002,20,SGP,Defender,20,Tampines Rovers FC,8,7,590:20:00,0,2,0,0,1,7,2,1,0,0.5,0,1,1,0
+149,4,Shuya Yamashita,16/4/1998,24,JPN,Defender,24,Tampines Rovers FC,10,10,900:00:00,1,8,0,0,2,10,4,1,0,0.25,0.12,0,0,1
+150,5,Danish Irfan Bin Azman,10/3/1999,23,SGP,Defender,23,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+151,6,Iman Hakim Bin Ibrahim,9/3/2002,20,SGP,Midfielder,20,Tampines Rovers FC,1,0,45:00:00,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+152,7,Muhammad Yasir Bin Hanapi,21/6/1989,32,SGP,Midfielder,33,Tampines Rovers FC,9,9,751:19:00,0,8,2,2,5,19,14,4,0,0.62,0,0,1,0
+153,8,Kyoga Nakamura,25/4/1996,26,JPN,Midfielder,26,Tampines Rovers FC,10,10,900:00:00,0,20,5,5,7,13,24,2,0,0.35,0,0,1,0
+154,9,BORIS KOPITOVIC,27/4/1995,27,MNE,Forward,27,Tampines Rovers FC,10,10,900:00:00,12,52,4,4,22,24,12,1,0,0.42,0.23,0,1,0
+155,10,Zehrudin Mehmedovic,15/3/1998,24,SRB,Midfielder,24,Tampines Rovers FC,10,10,865:37:00,3,19,3,3,12,9,14,3,0,0.63,0.16,0,1,0
+156,11,Muhammad Shameer Aziq Bin Abdul Razak,30/12/1995,26,SGP,Defender,27,Tampines Rovers FC,1,0,2:47,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+157,12,Muhammad Amirul Haikal Bin Mohamed Hassim,11/10/1999,22,SGP,Defender,23,Tampines Rovers FC,8,5,395:56:00,0,2,2,2,1,3,7,1,0,0.5,0,3,1,0
+158,13,Mohamad Taufik Bin Suparno,31/10/1995,26,SGP,Forward,27,Tampines Rovers FC,10,10,754:51:00,3,23,1,1,12,31,23,2,0,0.52,0.13,0,1,0
+159,14,Wei Ming Marc Ryan Tan,18/1/2002,20,SGP,Midfielder,20,Tampines Rovers FC,7,0,107:18:00,1,6,0,0,2,4,3,1,0,0.33,0.17,7,1,0
+160,15,Syed Firdaus Bin Syed Hassan,30/5/1998,24,SGP,Midfielder,24,Tampines Rovers FC,5,1,86:56:00,0,0,0,0,0,1,1,1,0,0,0,4,0,0
+161,17,Muhammad Irwan Shah Bin Arismail,2/11/1988,33,SGP,Defender,34,Tampines Rovers FC,10,7,613:34:00,0,0,0,0,0,16,6,2,0,0,0,3,1,0
+162,21,Mohammad Firdaus Bin Kasman,24/1/1988,34,SGP,Midfielder,34,Tampines Rovers FC,9,3,393:05:00,2,6,0,0,3,10,5,2,0,0.5,0.33,6,0,1
+163,22,Christopher James Van Huizen,28/11/1992,29,SGP,Midfielder,30,Tampines Rovers FC,9,8,698:49:00,2,8,0,0,4,7,5,1,0,0.5,0.25,1,0,1
+164,23,Mohammad Irfan Bin Mohammad Najeeb,31/7/1999,22,SGP,Defender,23,Tampines Rovers FC,4,2,176:26:00,0,2,0,0,0,1,1,1,0,0,0,2,1,0
+165,24,Muhammad Syazwan Bin Buhari,22/9/1992,29,SGP,Goal Keeper,30,Tampines Rovers FC,10,10,900:00:00,0,0,0,0,0,0,3,0,0,0,0,0,1,0
+166,31,Danial Iliya Bin Khairuddin,6/2/2003,19,SGP,Goal Keeper,19,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+167,32,Yu En Ong,3/10/2003,18,SGP,Midfielder,19,Tampines Rovers FC,7,5,351:15:00,0,3,0,0,1,2,12,0,0,0.33,0,2,0,1
+168,40,Yang Guang Sunny Tia,25/2/2004,18,SGP,Goal Keeper,18,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+169,51,Taras Goh,26/5/2005,17,SGP,Midfielder,17,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,54,Jovan Ang,23/8/2006,15,SGP,Defender,16,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,55,Ethan Henry Pinto,14/10/2004,17,SGP,Midfielder,18,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+172,56,Muhamad Ali Manaf,6/1/2005,17,SGP,Forward,17,Tampines Rovers FC,2,0,11:22,0,0,0,0,0,1,2,0,0,0,0,2,0,0
+173,57,Adam Reefdy Bin Muhammad Hasyim,8/5/2004,18,SGP,Defender,18,Tampines Rovers FC,10,3,319:13:00,0,0,0,0,0,5,2,1,0,0,0,7,1,0
+174,58,Caelan Cheong Tze Jay,22/1/2006,16,SGP,Midfielder,16,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,60,Matthias Josaphat Koesno,13/7/2006,15,SGP,Midfielder,16,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,70,Andrew Yong Rei Aw,29/3/2003,19,SGP,Defender,19,Tampines Rovers FC,7,0,136:05:00,0,1,0,0,0,3,2,0,0,0,0,7,1,0
+177,77,Amir Mirza Bin Rudy Iskandar,10/4/2003,19,SGP,Midfielder,19,Tampines Rovers FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+178,1,Veer Karan Sobti,6/5/2004,18,SGP,Goal Keeper,18,Tanjong Pagar United FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,2,Mohammed Faritz Bin Abdul Hameed,16/1/1990,32,SGP,Defender,32,Tanjong Pagar United FC,10,10,900:00:00,1,17,0,0,6,7,9,4,0,0.35,0.06,0,1,0
+180,3,Muhammad Shahrin Bin Saberin,14/2/1995,27,SGP,Defender,27,Tanjong Pagar United FC,3,2,160:44:00,0,1,1,1,0,0,2,0,0,0,0,1,1,0
+181,4,Mohamed Faizal Bin Mohamed Raffi,20/1/1996,26,SGP,Midfielder,26,Tanjong Pagar United FC,7,2,280:23:00,1,3,0,0,1,5,1,0,1,0.33,0.33,5,0,1
+182,5,Yu Min Emmeric Ong,25/1/1991,31,SGP,Defender,31,Tanjong Pagar United FC,9,7,630:58:00,0,0,0,0,0,6,5,1,0,0,0,2,1,0
+183,6,Muhammad Fathullah Bin Rahmat,5/9/2002,19,SGP,Midfielder,20,Tanjong Pagar United FC,9,7,441:08:00,0,3,0,0,1,10,3,3,0,0.33,0,2,1,0
+184,7,Muhamad Rusyaidi Bin Salime,25/4/1998,24,SGP,Midfielder,24,Tanjong Pagar United FC,7,4,443:05:00,1,3,1,1,2,5,3,3,0,0.67,0.33,3,1,0
+185,8,Daniel Mark Bennett,7/1/1978,44,SGP,Defender,44,Tanjong Pagar United FC,5,4,376:52:00,0,2,0,0,0,4,2,0,0,0,0,1,0,1
+186,9,Reo Nishiguchi,21/8/1997,24,JPN,Midfielder,25,Tanjong Pagar United FC,11,11,990:00:00,11,33,4,4,22,9,5,1,0,0.67,0.33,0,1,0
+187,10,Muhammad Syukri Bin Mohd Bashir,11/4/1998,24,SGP,Forward,24,Tanjong Pagar United FC,5,3,168:15:00,0,4,0,0,3,4,4,0,0,0.75,0,2,0,0
+188,11,Muhammad Shakir Bin Hamzah,20/10/1992,29,SGP,Defender,30,Tanjong Pagar United FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+189,12,Muhammad Khairul Nizam Bin Mohammad Kamal,25/6/1991,30,SGP,Forward,31,Tanjong Pagar United FC,4,1,141:07:00,1,5,0,0,1,1,2,0,0,0.2,0.2,3,0,1
+190,13,Muhammad Aqhari Bin Abdullah,9/7/1991,30,SGP,Midfielder,31,Tanjong Pagar United FC,10,10,865:25:00,0,5,2,2,3,9,22,4,0,0.6,0,0,0,1
+191,14,Mohamad Naufal Ilham Bin Mohamad Ismail,17/8/2002,19,SGP,Midfielder,20,Tanjong Pagar United FC,3,2,141:20:00,0,1,0,0,0,2,2,1,0,0,0,1,1,0
+192,15,Shodai Nishikawa,21/9/1993,28,JPN,Midfielder,29,Tanjong Pagar United FC,10,10,900:00:00,2,7,1,1,4,12,11,0,0,0.57,0.29,0,1,0
+193,16,Muhammad Raihan Abdul Rahman,7/2/1991,31,SGP,Midfielder,31,Tanjong Pagar United FC,10,9,842:43:00,0,4,2,2,1,8,7,5,0,0.25,0,1,1,0
+194,17,MUHAMMAD RYAN SYAFFIQ BIN RAMLI,4/3/1995,27,SGP,Midfielder,27,Tanjong Pagar United FC,1,0,1:00,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+195,18,Mohammad Fashah Iskandar Bin S Rosedin,6/5/1995,27,SGP,Goal Keeper,27,Tanjong Pagar United FC,1,1,90:00:00,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+196,19,Mohammad Khairul Amri Bin Mohammad Kamal,14/3/1985,37,SGP,Forward,37,Tanjong Pagar United FC,8,3,398:31:00,2,14,1,1,6,7,5,2,0,0.43,0.14,5,1,0
+197,20,Blake Ashley Ricciuto,2/9/1992,29,AUS,Midfielder,30,Tanjong Pagar United FC,11,11,990:00:00,1,14,2,2,8,26,29,2,0,0.57,0.07,0,1,0
+198,21,Mirko Sugic,25/4/1994,28,CRO,Midfielder,28,Tanjong Pagar United FC,11,11,990:00:00,3,11,4,4,4,6,12,3,0,0.36,0.27,0,0,0
+199,22,Hadiputradila Bin Saswadimata,5/2/2000,22,SGP,Forward,22,Tanjong Pagar United FC,1,0,24:51:00,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+200,28,Muhammad Zharfan Bin Rohaizad,21/2/1997,25,SGP,Goal Keeper,25,Tanjong Pagar United FC,10,10,900:00:00,0,0,0,0,0,0,4,0,0,0,0,0,1,0
+201,40,Akram Bin Azman,21/11/2000,21,SGP,Defender,22,Tanjong Pagar United FC,4,3,213:30:00,0,0,1,1,0,5,3,1,0,0,0,1,0,0
+202,1,UMAYR BIN SUJUANDY,18/2/2003,19,SGP,Goal Keeper,19,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,2,Raoul Bin Suhaimi,18/9/2005,16,SGP,Defender,17,Young Lions,3,1,82:47:00,0,1,0,0,1,3,2,1,0,1,0,2,1,0
+204,3,Jordan Efa Okwudili Emaviwe,9/4/2001,21,SGP,Defender,21,Young Lions,3,3,232:31:00,1,5,0,0,3,1,5,0,0,0.6,0.2,0,1,0
+205,5,Muhammad Syabil Bin Hisham,20/9/2002,19,SGP,Defender,20,Young Lions,5,5,439:53:00,0,1,0,0,1,9,8,0,0,1,0,0,1,0
+206,6,Jacob William Mahler,10/4/2000,22,SGP,Defender,22,Young Lions,7,7,579:45:00,0,5,0,0,2,4,9,1,0,0.4,0,0,1,0
+207,8,Nur Muhammad Shah Bin Shahiran,14/11/1999,22,SGP,Midfielder,23,Young Lions,7,7,619:07:00,0,6,0,0,1,12,11,2,0,0.17,0,0,1,0
+208,9,Vasileios Ming Xun Chua Zikos,15/4/2002,20,SGP,Forward,20,Young Lions,6,4,330:13:00,3,9,1,1,4,6,2,0,0,0.44,0.33,2,0,1
+209,10,"Jia Jin, Glenn Kweh",26/3/2000,22,SGP,Forward,22,Young Lions,7,3,369:05:00,0,10,2,2,1,5,5,0,0,0.1,0,4,1,0
+210,11,Abdul Rasaq Ishiekwene Akeem,16/6/2001,20,SGP,Midfielder,21,Young Lions,1,0,19:00,0,1,0,0,1,0,0,0,0,1,0,1,1,0
+211,12,Joel Joon Herng Chew,9/2/2000,22,SGP,Midfielder,22,Young Lions,7,7,552:03:00,0,10,2,2,3,3,4,1,0,0.3,0,0,1,0
+212,13,Muhammad Syahrul Bin Sazali,3/6/1998,23,SGP,Defender,24,Young Lions,6,5,466:27:00,0,0,1,1,0,3,3,1,0,0,0,1,1,0
+213,14,Rezza Rezky Ramadhani Bin Yacobjan,8/11/2000,21,SGP,Midfielder,22,Young Lions,3,0,29:49:00,0,0,0,0,0,0,2,0,0,0,0,3,1,0
+214,15,Amir Syafiz Bin Abdul Rashid,21/6/2004,17,SGP,Midfielder,18,Young Lions,4,3,228:16:00,0,5,0,0,2,5,6,1,0,0.4,0,1,1,0
+215,16,Ryhan Euan Griffin Stewart,15/2/2000,22,SGP,Defender,22,Young Lions,5,5,374:14:00,3,8,0,0,3,2,14,1,0,0.38,0.38,0,1,0
+216,18,Ridhwan Fikri Bin Aban,29/4/1999,23,SGP,Goal Keeper,23,Young Lions,7,7,630:00:00,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+217,19,Khairin Nadim Bin Rahim,8/5/2004,18,SGP,Forward,18,Young Lions,7,6,547:21:00,0,13,1,1,10,5,11,0,0,0.77,0,1,1,0
+218,20,Nor Hakim Bin Redzuan,21/10/2000,21,SGP,Forward,22,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+219,21,Muhammad Zulqarnaen Bin Suzliman,29/3/1998,24,SGP,Defender,24,Young Lions,3,3,243:55:00,2,3,0,0,2,6,2,1,0,0.67,0.67,0,1,0
+220,22,Danish Qayyum Putra Shahrin Azhar,2/2/2002,20,SGP,Defender,20,Young Lions,4,1,106:07:00,0,0,1,1,0,1,4,1,0,0,0,3,1,0
+221,25,Dylan Pereira Singh S/o Rameshpal Singh,31/7/2000,21,SGP,Goal Keeper,22,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+222,26,Danial Scott Crichton,11/4/2003,19,SGP,Defender,19,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+223,27,Mohammed Arshad Bin Shamim,9/12/1999,22,SGP,Midfielder,23,Young Lions,5,1,126:53:00,0,1,0,0,1,5,2,1,0,1,0,4,1,0
+224,28,Syed Muhamad Akmal Bin Syed Abdul Aziz,28/4/2000,22,SGP,Defender,22,Young Lions,4,1,155:19:00,0,1,0,0,0,3,1,0,0,0,0,3,1,0
+225,29,Muhammad Harith Bin Kanadi,1/8/2000,21,SGP,Defender,22,Young Lions,4,3,292:04:00,0,4,0,0,3,3,5,2,0,0.75,0,1,0,1
+226,30,Jared Sean Gallagher,18/1/2002,20,SGP,Midfielder,20,Young Lions,5,3,307:27:00,0,1,0,0,0,9,6,1,0,0,0,2,0,0
+227,33,MUHAMMAD FAIRUZ MUHAMMAD FAZLI KOH,20/1/2005,17,SGP,Midfielder,17,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,34,Ryu Hardy Yussri,20/4/2005,17,SGP,Midfielder,17,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,35,MUHAMMAD 'RAUF BIN MOHAMED ERWAN,25/4/2005,17,SGP,Goal Keeper,17,Young Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
